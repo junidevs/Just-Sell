@@ -1,0 +1,15 @@
+{
+    "offers": [
+      { 
+          "id": 1, 
+          "position": "React-Dev", 
+          "type": "Software-House" 
+        }
+    ],
+    "comments": [
+      {
+           "id": 1, "body": "some comment", "postId": 1 
+        }
+    ],
+    "profile": { "name": "typicode" }
+  }
